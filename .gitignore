@@ -19,6 +19,11 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Environment
+!.env
+.env*
+!.env.example
 MANIFEST
 
 # Virtual Environment
